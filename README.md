@@ -1,4 +1,4 @@
-# data_science
+# data science repo
 
 This repository is all about the projects related to Data science
 
